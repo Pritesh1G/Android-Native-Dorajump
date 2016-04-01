@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.neurondigital.jumper&apos; to &apos;com.tpgstudio.dorajump&apos;&#x0D;&#x0A;- Original project: &apos;Jumper&apos;&#x0D;&#x0A;- Original element: &apos;Jumper/src/com.neurondigital.jumper&apos;&#x0D;&#x0A;- Renamed element: &apos;Jumper/src/com.tpgstudio.dorajump&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;com.neurondigital.jumper&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.neurondigital.jumper" name="com.tpgstudio.dorajump" qualified="false" references="true" stamp="1428038967452" textual="false" version="1.0"/>
+</session>

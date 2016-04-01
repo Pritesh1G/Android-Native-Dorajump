@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">DoraJump</string>
+
+    <!-- Calibrate Menu -->
+    <string name="calibrate">Calibrate</string>
+    <string name="calibrate_instructions">Click the screen to adjust center</string>
+
+    <!-- Game Over -->
+    <string name="game_over">Game Over</string>
+
+    <!-- Top scores menu -->
+    <string name="Highscores">Top Scores</string>
+    <string name="Enter_highscore_comment">Congrats! Enter your name</string>
+    <string name="Highscore_hint">Your Name</string>
+    <string name="Default_topscore_name">Guest</string>
+
+    <!-- Game Play -->
+    <string name="Paused">Paused</string>
+    <string name="Tap_to_start">Tap To Start</string>
+
+    <!-- Main Menu -->
+    <string name="Play">Play</string>
+
+    <!-- Facebook -->
+    <!-- Create a new app on facebook, give it the hash of this App and the package name, then put the id here -->
+    <string name="app_facebook_id">1574755879475779</string>
+    <string name="Error_no_facebook_app_installed">Facebook not installed on your Device.</string>
+    <string name="facebook_share_description">Check out my score on Jumper</string>
+    <string name="facebook_share_link">https://play.google.com/store/apps/details?id=com.tpgstudio.dorajump</string>
+
+    <!-- Add unit id - you should get the interstatial ad unit id from admob -->
+    <string name="InterstitialAd_unit_id">ca-app-pub-1458465703318112/4426078531</string>
+
+</resources>
