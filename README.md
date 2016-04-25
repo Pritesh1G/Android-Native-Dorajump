@@ -12,7 +12,7 @@ Developer: Pritesh G
 ##Contribution
 If you wish to contribute please **fork it** and then send a **pull request** of the changes.
 
-##Requirements:
+##Requirements
 Project created in Elcipse for Android 4.4.2 if you wish to import it in studio please refer documentation
 http://developer.android.com/sdk/installing/migrate.html
 
