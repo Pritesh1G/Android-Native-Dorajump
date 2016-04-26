@@ -26,12 +26,12 @@
 
     <!-- Facebook -->
     <!-- Create a new app on facebook, give it the hash of this App and the package name, then put the id here -->
-    <string name="app_facebook_id">1574755879475779</string>
+    <string name="app_facebook_id">add your app id here</string>
     <string name="Error_no_facebook_app_installed">Facebook not installed on your Device.</string>
     <string name="facebook_share_description">Check out my score on Jumper</string>
-    <string name="facebook_share_link">https://play.google.com/store/apps/details?id=com.tpgstudio.dorajump</string>
+    <string name="facebook_share_link">change this with your google play link</string>
 
     <!-- Add unit id - you should get the interstatial ad unit id from admob -->
-    <string name="InterstitialAd_unit_id">ca-app-pub-1458465703318112/4426078531</string>
+    <string name="InterstitialAd_unit_id">Add your unit id of admob here</string>
 
 </resources>
