@@ -1,7 +1,7 @@
 # Dorajump
 
 ## Introduction
-Source code released of my game Dorajump which had 56,766 downloads before it got taken down.
+Source code released of my game Dorajump which had 56,766 downloads
 
 This is an endless vertical jumper game that I created. 
 
